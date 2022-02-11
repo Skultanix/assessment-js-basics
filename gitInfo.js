@@ -11,6 +11,8 @@
 
 //CODE HERE
 
+gitDefinition = `A version control system; it's a system for logging changes to a coding project.`
+
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,6 +20,8 @@
 */
 
 //CODE HERE
+
+gitHubDefinition = 'A cloud network designed for storing, backing up, and sharing coding projects and their corresponding git snapshots.'
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -27,6 +31,8 @@
 
 //CODE HERE
 
+gitInitDefinition = `A command for the git system that initializes a git log for a particular coding project.`
+
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -35,6 +41,8 @@
 
 //CODE HERE
 
+gitCloneDefinition = `A command for the git system that duplicates an existing git repository.`
+
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,6 +50,8 @@
 */
 
 //CODE HERE
+
+gitstatusDefinition = `A command for the git system to report on the current git repository in the console.`
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -54,6 +64,10 @@
 
 //CODE HERE
 
+gitAddDefinition = `A command for the git system to add select files to an repository.`
+
+gitAddCode = `git add .`
+
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -65,6 +79,9 @@
 
 //CODE HERE
 
+gitCommitDefinition = `A command for the git system to add a comment to an entry on the git repository.`
+
+gitCommitCode = `git commit -m "initial commit"`
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +90,5 @@
 */
 
 //CODE HERE
+
+gitPushDefinition = `A command to the git system to upload the local git repository to a corresponding cloud repository determined by a github repository URL.`
